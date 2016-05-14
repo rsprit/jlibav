@@ -1,9 +1,5 @@
-/jlibav/target/
-/samples/playback-sample/target/
-/samples/rtsp-sample/target/
-/samples/transcode-sample/target/
+target/
 nbactions-ide.xml
-/samples/quick-start-01/target/
-/samples/quick-start-02/target/
-/samples/quick-start-03/target/
-/samples/quick-start-04/target/
+.project
+.classpath
+.settings/
